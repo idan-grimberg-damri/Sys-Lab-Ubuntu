@@ -1,0 +1,20 @@
+Script started on IDT 21:32:49 2015 אוג 26 ד'
+]0;d2idan@dandam: ~/Desktop/maman14/outputd2idan@dandam:~/Desktop/maman14/output$ ./asembler idan.as
+
+]0;d2idan@dandam: ~/Desktop/maman14/outputd2idan@dandam:~/Desktop/maman14/output$ ./asembler idan2.as
+line 8: Illegal addressing, recheck operands used. 
+line 9: Label was already defined as external 
+line 11: Line should contain more than just a label
+line 14: Illegal addressing, recheck operands used. 
+Line 18: Error: this function cannot have operand\s. 
+Line 20: Error: it is not possible to have space between the label to ":". 
+Line 8: Too few argument\s 
+Line 10: Didn't identify label 
+Line 14: Too few argument\s 
+
+Found 9 errors in the file: idan2.as
+
+]0;d2idan@dandam: ~/Desktop/maman14/outputd2idan@dandam:~/Desktop/maman14/output$ exit
+exit
+
+Script done on IDT 21:33:12 2015 אוג 26 ד'
